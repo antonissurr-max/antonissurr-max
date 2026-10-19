@@ -1,4 +1,4 @@
-# Antonis Sirianos
+# Antonios Syrianos
 
 Founder of [Omnidot](https://omnidot.gr) — a marketing agency in Athens focused on websites, social media, SEO & AEO, and paid ads. Marketing student building products with AI-assisted development.
 
