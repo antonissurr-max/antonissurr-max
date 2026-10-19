@@ -18,4 +18,4 @@ Cursor · Supabase · Cloudflare Pages · GitHub · Figma · Canva · Google Ads
 ## Contact
 
 - Website: [omnidot.gr](https://omnidot.gr)
-- LinkedIn: *[add your LinkedIn URL here]*
+- LinkedIn: https://www.linkedin.com/in/antonios-syrianos-046308279/
