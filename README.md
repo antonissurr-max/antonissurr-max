@@ -9,7 +9,7 @@ Founder of [Omnidot](https://omnidot.gr) — a marketing agency in Athens focuse
 Websites and web apps shipped with Cursor, from agency sites to product apps:
 
 - **[Omnidot](https://omnidot.gr)** — agency marketing site
-- **[DotXI](https://dotxi.app)** — football scouting & club operations platform
+- **[DotXI](https://dotxi.app)** — Football Academy Management Web App, demo on request
 
 ## Tools
 
